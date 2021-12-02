@@ -101,7 +101,7 @@ body {
 
 .skills-list {
   margin: 0;
-  padding: 0;
+  /*padding: 0;*/
 }
 
 .skills-list dt {
@@ -120,7 +120,7 @@ body {
 
 .level {
   margin: 4px 0 16px;
-  padding: 0;
+  /*padding: 0;*/
   height: 14px;
   font-size: 0;
   background-color: #ffffff;
@@ -129,7 +129,7 @@ body {
 }
 
 .level div {
-  margin: 1px;
+  /*margin: 1px;*/
   height: 12px;
   background-color: #288be6;
   border-radius: 6px;
